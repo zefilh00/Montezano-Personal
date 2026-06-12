@@ -27,7 +27,7 @@ function Hero() {
             Corpo!
           </span>
           <br />
-          Alcance seus Objetivos com Montezano
+          Alcance seus Objetivos com Montezano!
         </h1>
 
         <p className="mt-8 text-xl md:text-2xl text-gray-300 max-w-3xl mx-auto leading-relaxed">
