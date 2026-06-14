@@ -6,7 +6,7 @@ const items = [
   {
     icon: GraduationCap,
     title: "Graduação em Educação Física",
-    text: "Formação completa e reconhecida pelo MEC, com base científica sólida em anatomia, fisiologia e treinamento esportivo.",
+    text: "Atualmente em formação em Educação Física, desenvolvendo conhecimentos em anatomia, fisiologia, biomecânica e treinamento esportivo, sempre buscando aprimoramento para oferecer o melhor acompanhamento aos alunos.",
     tag: "Bacharel",
   },
   {

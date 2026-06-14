@@ -28,7 +28,7 @@ function Contact() {
         />
       </div>
 
-      <div className="relative max-w-7xl mx-auto mt-10 rounded-2xl border border-zinc-800 bg-zinc-950/80 p-8 md:p-10">
+      <div className="relative max-w-7xl mx-auto mt-10 rounded-2xl border border-zinc-800 bg-zinc-950/80 p-7 md:p-10 overflow-hidden">
         <h3 className="text-2xl md:text-3xl font-extrabold mb-8">
           Informações de Atendimento
         </h3>
@@ -86,7 +86,10 @@ function ContactCard({ icon: Icon, title, text, linkText, link }) {
         </p>
 
         <span className="inline-flex items-center gap-2 text-green-500 font-extrabold text-lg transition-all duration-500 group-hover:text-green-400 group-hover:translate-x-2">
-          {linkText} <span className="transition-transform duration-500 group-hover:translate-x-2">→</span>
+          {linkText}{" "}
+          <span className="transition-transform duration-500 group-hover:translate-x-2">
+            →
+          </span>
         </span>
       </div>
     </a>
@@ -95,16 +98,19 @@ function ContactCard({ icon: Icon, title, text, linkText, link }) {
 
 function Info({ icon: Icon, title, text }) {
   return (
-    <div className="flex gap-5 items-start">
+    <div className="flex gap-5 items-start min-w-0">
       <div className="w-14 h-14 shrink-0 rounded-xl bg-green-500/15 flex items-center justify-center">
         <Icon className="text-green-500" size={28} />
       </div>
 
-      <div>
+      <div className="min-w-0 flex-1">
         <h4 className="font-extrabold text-lg">{title}</h4>
 
         {text.map((line) => (
-          <p key={line} className="text-gray-400 text-lg">
+          <p
+            key={line}
+            className="text-gray-400 text-lg break-all leading-relaxed"
+          >
             {line}
           </p>
         ))}
