@@ -24,7 +24,7 @@ function Contact() {
           title="Instagram"
           text="Acompanhe dicas, transformações dos alunos e bastidores dos treinos no Instagram."
           linkText="Seguir Perfil"
-          link="https://www.instagram.com/gabo45975/"
+          link="https://www.instagram.com/montezano00/"
         />
       </div>
 
