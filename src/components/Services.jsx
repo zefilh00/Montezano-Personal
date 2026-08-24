@@ -5,7 +5,7 @@ const services = [
   {
     icon: MapPin,
     title: "Atendimento Presencial",
-    text: "Atendo nas cidades de Miradouro MG e faço consultas online ajudando a montar seu plano de treinamento. Treino personalizado no local que for mais conveniente para você.",
+    text: "Atendo na cidade de Miradouro MG presencialmente. Treino personalizado no local que for mais conveniente para você.",
   },
   {
     icon: Dumbbell,
@@ -19,8 +19,8 @@ const services = [
   },
   {
     icon: Clipboard,
-    title: "Planejamento Personalizado",
-    text: "Cada treino é elaborado especificamente para você, respeitando suas limitações e potencializando seus resultados.",
+    title: "Planejamento Personalizado Presencial e Online",
+    text: "Cada treino é elaborado especificamente para você tanto presencial quanto online, respeitando suas limitações e potencializando seus resultados.",
   },
 ];
 

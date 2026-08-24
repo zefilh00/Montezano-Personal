@@ -1,6 +1,6 @@
 import { GraduationCap, Award, BookOpen } from "lucide-react";
 import SectionHeader from "./SectionHeader";
-import trainerImg from "../assets/hero.png";
+import trainerImg from "../assets/hero.jpeg";
 
 const items = [
   {
