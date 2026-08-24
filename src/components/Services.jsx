@@ -5,7 +5,7 @@ const services = [
   {
     icon: MapPin,
     title: "Atendimento Presencial",
-    text: "Atendo nas cidades de Miradouro MG e Muriaé MG. Treino personalizado no local que for mais conveniente para você.",
+    text: "Atendo nas cidades de Miradouro MG e faço consultas online ajudando a montar seu plano de treinamento. Treino personalizado no local que for mais conveniente para você.",
   },
   {
     icon: Dumbbell,

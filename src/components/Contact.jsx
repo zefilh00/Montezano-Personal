@@ -37,7 +37,7 @@ function Contact() {
           <Info
             icon={MapPin}
             title="Localização"
-            text={["Miradouro MG", "Muriaé MG"]}
+            text={["Miradouro MG"]}
           />
 
           <Info

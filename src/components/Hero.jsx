@@ -8,7 +8,7 @@ function Hero() {
   return (
     <section className="relative min-h-screen flex items-center justify-center px-6 text-center">
       <img
-        src="https://www.smartfit.com.br/news/wp-content/uploads/2025/02/Destaquedupla-800x533.jpg"
+        src="https://cdn.prod.website-files.com/64dd05b33f019f79a7ec8f43/6706e3a769408c6badc0589f_tipos-de-peso-de-academia.webp"
         alt="Personal trainer"
         className="absolute inset-0 w-full h-full object-cover opacity-35"
       />
@@ -58,7 +58,7 @@ function Hero() {
           </div>
 
           <div>
-            <h3 className="text-4xl font-extrabold text-green-500">2</h3>
+            <h3 className="text-4xl font-extrabold text-green-500">1</h3>
             <p className="text-gray-400 text-sm md:text-base">
               Cidades Atendidas
             </p>
