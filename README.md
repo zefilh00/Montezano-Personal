@@ -1,16 +1,38 @@
-# React + Vite
+# Montezano Personal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Site institucional desenvolvido para um Personal Trainer, com o objetivo de apresentar seus serviços, formação, experiência e formas de contato.
 
-Currently, two official plugins are available:
+O projeto foi desenvolvido com foco em uma interface moderna, responsiva e adaptada para diferentes tamanhos de tela, proporcionando uma boa experiência tanto em dispositivos desktop quanto mobile.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Tecnologias
 
-## React Compiler
+* React
+* JavaScript (JSX)
+* Tailwind CSS
+* Vite
+* Lucide React
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📱 Funcionalidades
 
-## Expanding the ESLint configuration
+* Página inicial com apresentação do profissional
+* Seção de serviços oferecidos
+* Seção de formação e experiência
+* Informações de atendimento
+* Links diretos para WhatsApp e Instagram
+* Design responsivo para desktop e dispositivos móveis
+* Animações e interações nos elementos da página
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🎨 Design
+
+O layout foi desenvolvido com base em um protótipo criado no Figma, utilizando uma identidade visual com fundo escuro e detalhes em verde.
+
+## 💻 Desenvolvimento
+
+Projeto desenvolvido como parte do meu portfólio para prática e aprimoramento em desenvolvimento front-end, utilizando componentização com React e estilização com Tailwind CSS.
+
+## 👨‍💻 Autor
+
+**José Arnaldo de Carvalho Filho**
+
+* GitHub: [@zefilh00](https://github.com/zefilh00)
+* LinkedIn: [José Arnaldo de Carvalho Filho](https://www.linkedin.com/in/josearnald0/)
